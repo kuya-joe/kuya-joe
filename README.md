@@ -1,9 +1,9 @@
-Hello, I'm Kuya Joe P.! 
+Hello, I'm Kuya Joe! 
 
-I'm a web developer, speaker, and tech community leader. From my roots as a PHP developer working with PHP5 OOP and [phpwcms](http://www.phpwcms.org/),  I learned web development and since most of my tasks were frontend bugs, I learned enough to specialize into becoming a fullstack javascript developer. 
+I'm a web developer, speaker, and tech community leader. Started out as a php developer working with a littke known cms - [phpwcms](http://www.phpwcms.org/),  
 
-I try to keep up with frontend technology,  especially since it keeps changing every few years. Here's the top programming languages I use.
+I eventually learned frontend web development and thought I liked it enough to go deep dive in it. And CSS is crazy! But still fine (especially the flex and grid stuff).Now I'm a fullstack-ish javascript developer. (People have different definitions of fullstack). 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuya-joe&langs_count=6)](https://github.com/kuya-joe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuya-joe&langs_count=3)](https://github.com/kuya-joe/github-readme-stats)
 
 [![Kuya Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuya-joe)](https://github.com/kuya-joe/github-readme-stats)
